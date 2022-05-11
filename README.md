@@ -1,5 +1,5 @@
 # 基于tcp协议的文件传输系统
-开发环境：C++，Socket
+开发环境：C++，Socket，VsCode
 
 实现的基本功能：
 
